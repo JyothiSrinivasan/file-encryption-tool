@@ -1,0 +1,5 @@
+Security Training Note
+----------------------
+A suspicious login was detected at 09:15.
+The analyst checked the device and reviewed the alert.
+Outcome: No real incident; this is sample text only.

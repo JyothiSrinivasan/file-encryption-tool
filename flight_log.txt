@@ -1,0 +1,7 @@
+Aircraft Radar Demo Log
+-----------------------
+Flight: IGO 482
+From: Hyderabad
+To: Bengaluru
+Status: On time
+Note: These are fictional sample details for testing encryption.

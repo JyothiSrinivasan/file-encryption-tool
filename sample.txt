@@ -1,0 +1,3 @@
+Hello! This is a test of my AES file encryption app.
+If decryption works, I should see these exact words again.
+Project: File Encryption Tool

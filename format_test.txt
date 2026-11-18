@@ -1,0 +1,9 @@
+Encryption Format Test
+----------------------
+Uppercase: ABCDEFG
+Lowercase: abcdefg
+Numbers: 0123456789
+Symbols: ! @ # $ % & *
+Unicode: नमस्ते | తెలుగు | தமிழ்
+
+This file includes a blank line and multilingual text.
